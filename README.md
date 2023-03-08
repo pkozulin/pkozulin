@@ -1,7 +1,6 @@
 <p>Hi there, I'm Peter,<br>
-<p>🌱 I'm a developmental neuroscientist who's jumped from clinical to wet lab to bioinformatic research during my career, but my main interest has always been to dissect out the molecular and genetic processes that control how the mammalian brain is wired and how these processes evolved.<br>
+<p>🌱 I'm a developmental neuroscientist who's jumped from clinical to wet lab to bioinformatic research during my career, but my main interest has always been to dissect out the molecular and genetic processes that control how the mammalian brain is wired and how these processes evolved. Also interested in developmental epigenomics and molecular evolution.<br>
 <p>🌱 I’m currently using single cell transcriptomics in marsupials and placental mammals to study the evolution of the neocortex, as well as profiling cortical projection neuronal subtypes across species.<br>
-<p>🌱 Hoping to perform developmental epigenomics and spatial transcriptomics in the future.
 
 
 <!--
